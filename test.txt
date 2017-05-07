@@ -3,3 +3,6 @@ Hello world!!
 added by other developer B , added more changes
 
 This is my develop branch code
+
+
+Updated for release 2.0
