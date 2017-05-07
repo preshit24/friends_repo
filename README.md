@@ -1,2 +1,2 @@
 # friends_repo
-This is dummy repo
+This is dummy repo for friends.
