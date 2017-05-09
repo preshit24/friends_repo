@@ -6,3 +6,5 @@ This is my develop branch code
 
 Added later for demo
 Updated for release 2.0
+
+I am content of master branch
