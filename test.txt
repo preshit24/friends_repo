@@ -6,4 +6,6 @@ This is my develop branch code
 
 This is my release content
 
+GUI commit
+
 Added more for emerge
