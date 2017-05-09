@@ -5,3 +5,5 @@ added by other developer B , added more changes
 This is my develop branch code
 
 This is my release content
+
+Added more for emerge
