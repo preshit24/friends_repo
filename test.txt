@@ -9,7 +9,7 @@ Updated for release 2.0
 
 This is my release content
 
-GUI commit
+GUI commit master
 
 Added more for emerge
 
