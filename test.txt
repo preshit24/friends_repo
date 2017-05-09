@@ -9,5 +9,7 @@ Updated for release 2.0
 
 This is my release content
 
+GUI commit
+
 Added more for emerge
 
